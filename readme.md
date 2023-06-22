@@ -22,31 +22,31 @@ Sample images from the competition dataset and their corresponding prompts are s
     </tr>
     <tr>
         <td><center><img src="./images/92e911621.png" width="200" height="200"></center></td>
-        <td><center><code>ultrasaurus holding a black bean taco in the woods, near an identical cheneosaurus</code></center></td>
+        <td><center><code>digital illustration of a blue dinosaur with a piece of cheese in its mouth walking through a forest</code></center></td>
     </tr>
     <tr>
-        <td><center><img src="./images/image2.png" width="200" height="200"></center></td>
-        <td><center><code>Two cats playing with a ball of yarn on a sunny day</code></center></td>
+        <td><center><img src="./images/227ef0887.png" width="200" height="200"></center></td>
+        <td><center><code>a close up wood carving shoeing the texture of wood</code></center></td>
     </tr>
     <tr>
-        <td><center><img src="./images/image3.png" width="200" height="200"></center></td>
-        <td><center><code>A colorful hot air balloon flying over a green field</code></center></td>
+        <td><center><img src="./images/20057f34d.png" width="200" height="200"></center></td>
+        <td><center><code>digital art selected for the #</code></center></td>
     </tr>
     <tr>
-        <td><center><img src="./images/image4.png" width="200" height="200"></center></td>
-        <td><center><code>A group of friends having a picnic by the lake</code></center></td>
+        <td><center><img src="./images/a4e1c55a9.png" width="200" height="200"></center></td>
+        <td><center><code>a drawing of robot</code></center></td>
     </tr>
     <tr>
-        <td><center><img src="./images/image5.png" width="200" height="200"></center></td>
-        <td><center><code>A woman holding a bouquet of red roses</code></center></td>
+        <td><center><img src="./images/c98f79f71.png" width="200" height="200"></center></td>
+        <td><center><code>a painting of a roman man with a lizard crawling over his shoulder</code></center></td>
     </tr>
     <tr>
-        <td><center><img src="./images/image6.png" width="200" height="200"></center></td>
-        <td><center><code>A snowy mountain peak under a clear blue sky</code></center></td>
+        <td><center><img src="./images/d8edf2e40.png" width="200" height="200"></center></td>
+        <td><center><code>astronaut walking on a road lined with cherry blossom trees</code></center></td>
     </tr>
     <tr>
-        <td><center><img src="./images/image7.png" width="200" height="200"></center></td>
-        <td><center><code>A city skyline at night with colorful lights</code></center></td>
+        <td><center><img src="./images/f27825b2c.png" width="200" height="200"></center></td>
+        <td><center><code>a man in a blue tshirt and khakhi pants stands in front of a bakery counter</code></center></td>
     </tr>
 </table>
 
@@ -61,15 +61,7 @@ Here's the ratio for three different model
 
 ## Application and Datasets
 
-### Application
 
-Based on the Kaggle competition, we want to build a model to predict the prompts that were used to generate target images.
-
-### Datasets
-
-Prompts for this challenge were generated using a variety of (non disclosed) methods, and range from fairly simple to fairly complex with multiple objects and modifiers.
-
-Images were generated from the prompts using Stable Diffusion $2.0$ ($768$-v-ema.ckpt) and were generated with 50 steps at $768 \times 768$ px and then downsized to $512 \times 512$ for the competition dataset. The hidden re-run test folder contains approximately $16,000$ images.
 
 ## References
 
