@@ -1,4 +1,7 @@
-
+## How to run ?
+1. Open Google Collab
+2. Set the processor to GPU
+3. Import the images folder from this Github repo.
 
 ## About Project
 
